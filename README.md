@@ -1,7 +1,3 @@
-Informe práctica SSOO2
-
-Rubén Tobar Nicolau
-Llorenç Borràs Socíes
 Funcionamiento global
 
 La práctica consiste en la construcción de un sistema de ficheros gestionado mediante las bibliotecas: directorios, ficheros, ficheros_basicos y bloques.
